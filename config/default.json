@@ -1,0 +1,7 @@
+{
+  "port_exp": "5000",
+  "port_io": "5001",
+  "mongoUrl": "mongodb+srv://worker:Pass!1234@cluster0.wk74j.mongodb.net/WebChat?retryWrites=true&w=majority",
+  "mongo": "mongodb://worker:Pass!1234@localhost:27017/admin",
+  "jwt": "chat-jwt"
+}
